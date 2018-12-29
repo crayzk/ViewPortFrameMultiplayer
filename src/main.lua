@@ -1,0 +1,3 @@
+local RBX_MULTIPLAYER = {}
+
+return RBX_MULTIPLAYER
